@@ -24,35 +24,42 @@ Code from astronomical Python tutorials developed here at UT Austin as well as l
 Astropy: 
 * http://www.astropy.org
 * http://docs.astropy.org/en/stable/
+
 APLPy
 * http://aplpy.github.io/index.html
+
 astroplan
 * https://astroplan.readthedocs.io/en/latest/
+
 astroquery
 * https://astroquery.readthedocs.io/en/latest/
+
 ccdproc
 * https://ccdproc.readthedocs.io/en/latest/
+
 photutils
 * https://photutils.readthedocs.io/en/stable/index.html
+
 specutils
 * https://specutils.readthedocs.io/en/latest/
+
 emcee
 * http://dfm.io/emcee/current/
 
 ## Installing/Using Git/GitHub
 
-Git is a version controll tool. It helps you keep track of changes you make to your code. This allows you to roll back changes you have made if you break your code. GitHub is a website which interfaces with git to provide cloud hosted repositories. This allows multiple people to work on a project at the same time and share or publish your code. GitHub also provides other tools such as webpages, wikis, issue trackers, 
+Git is a version control tool. It helps you keep track of changes you make to your code. This allows you to roll back changes you have made if you break your code. GitHub is a website which interfaces with git to provide cloud hosted repositories. This allows multiple people to work on a project at the same time and share or publish your code. GitHub also provides other tools such as webpages, wikis, issue trackers, 
 
-Git is installed on the Linux/MacOS command line by default so you dont have to do any installation! If you are running Windows you can follow the instructions here: https://hackernoon.com/install-git-on-windows-9acf2a1944f0 (It is as simple as downloading and running an installer)
+Git is installed on the Linux/MacOS command line by default so you don't have to do any installation! If you are running Windows you can follow the instructions here: https://hackernoon.com/install-git-on-windows-9acf2a1944f0 (It is as simple as downloading and running an installer)
 
 Alternatively you can download a GUI application for MacOS or Windows here: https://desktop.github.com
 
-Some furthur configuration can be done to streamline your workflow such as saving your GitHub username, email, and pasword:
+Some further configuration can be done to streamline your workflow such as saving your GitHub username, email, and password:
 * https://help.github.com/articles/setting-your-username-in-git/
 * https://help.github.com/articles/setting-your-commit-email-address-in-git/
 * https://help.github.com/articles/caching-your-github-password-in-git/
 
-### Git/GitHub Resources, Tutorials, and cheet sheets
+### Git/GitHub Resources, Tutorials, and cheat sheets
 
 * https://help.github.com/articles/git-and-github-learning-resources/
 * https://guides.github.com
