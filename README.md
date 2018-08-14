@@ -1,5 +1,5 @@
 # GettingStarted
-Instructions for getting started with [python](# Python), [git/GitHub](# git/GitHub), and [LaTeX](# LaTeX).
+Instructions for getting started with [python](#Python), [git/GitHub](#git/GitHub), and [LaTeX](#LaTeX).
 
 # Python
 
