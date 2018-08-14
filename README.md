@@ -3,6 +3,8 @@ Instructions for getting started with [Python](#python), [Git/GitHub](#git-and-g
 
 # Python
 
+Python is the programing language we will be using in this class to process our data and create plots. It is open source (free) and has a large user base making most problems solvable with a simple google or https://stackoverflow.com search. There has been a significant effort over the past few years to develop a central open source package for astronomy called [astropy](http://astropy.org) which we will be using extensively. 
+
 ## Installing Python
 This is easiest on Linux/MacOS but can be done on Windows as well. If you are on Windows, the following instructions should work but you may find some useful information here: https://medium.com/@GalarnykMichael/install-python-on-windows-anaconda-c63c7c3d1444
 
@@ -49,9 +51,13 @@ emcee
 
 # git and GitHub
 
-## Installing Git
+Git is a version control tool; it helps you keep track of changes you make to your code. This allows you to roll back changes you have made if you break your code. GitHub is a website which interfaces with git to provide cloud hosted repositories. This allows multiple people to work on a project at the same time and provides a platform to share or publish your code. GitHub also provides other tools such as webpages, wikis, and issue trackers.
 
-Git is a version control tool. It helps you keep track of changes you make to your code. This allows you to roll back changes you have made if you break your code. GitHub is a website which interfaces with git to provide cloud hosted repositories. This allows multiple people to work on a project at the same time and share or publish your code. GitHub also provides other tools such as webpages, wikis, issue trackers, 
+We will be using GitHub to turn in the code associated with each of your projects. You will be given a link in each of the assignments which will set up a private repository for you to use. This will require a GitHub account which you should have set up already. (If not click the "sign up" button at the top of this page!)
+
+As stated in the quiz, the code associated with your projects can simply be uploaded to GitHub without interacting with git via the command line. Therefore you do not need to run git on the command line. That being said, it is a very useful and powerful tool worth learning and getting familiar with. 
+
+## Installing Git
 
 Git is installed on the Linux/MacOS command line by default so you don't have to do any installation! If you are running Windows you can follow the instructions here: https://hackernoon.com/install-git-on-windows-9acf2a1944f0 (It is as simple as downloading and running an installer)
 
