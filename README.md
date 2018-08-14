@@ -1,9 +1,10 @@
 # GettingStarted
 Instructions for getting started with python and git
 
-## Installing Python
+# Python
 
-This is easiest on Linux/MacOS but can be done on Windwos as well. If you are on Windows, the following instructions should work but you may find some useful information here: https://medium.com/@GalarnykMichael/install-python-on-windows-anaconda-c63c7c3d1444
+## Installing Python
+This is easiest on Linux/MacOS but can be done on Windows as well. If you are on Windows, the following instructions should work but you may find some useful information here: https://medium.com/@GalarnykMichael/install-python-on-windows-anaconda-c63c7c3d1444
 
 Download the **Python 3.6** (NOT 2.7) anaconda installer here: [https://www.anaconda.com/download/](https://www.anaconda.com/download/)
 
@@ -16,10 +17,10 @@ conda install -c astropy aplpy astroplan astroquery ccdproc photutils specutils
 pip instal emcee
 ```
 
-### Python Tutorials
+## Python Tutorials
 Code from astronomical Python tutorials developed here at UT Austin as well as links to online tutorials can be found in the [PythonTutorials](https://github.com/UTAustinAST376Fall2018/PythonTutorials) repository.
 
-### Useful Python documentation links
+## Useful Python documentation links
 
 Astropy: 
 * http://www.astropy.org
@@ -46,7 +47,9 @@ specutils
 emcee
 * http://dfm.io/emcee/current/
 
-## Installing/Using Git/GitHub
+# Git/GitHub
+
+## Installing Git
 
 Git is a version control tool. It helps you keep track of changes you make to your code. This allows you to roll back changes you have made if you break your code. GitHub is a website which interfaces with git to provide cloud hosted repositories. This allows multiple people to work on a project at the same time and share or publish your code. GitHub also provides other tools such as webpages, wikis, issue trackers, 
 
@@ -59,7 +62,7 @@ Some further configuration can be done to streamline your workflow such as savin
 * https://help.github.com/articles/setting-your-commit-email-address-in-git/
 * https://help.github.com/articles/caching-your-github-password-in-git/
 
-### Git/GitHub Resources, Tutorials, and cheat sheets
+## Git/GitHub Resources, Tutorials, and cheat sheets
 
 * https://help.github.com/articles/git-and-github-learning-resources/
 * https://guides.github.com
@@ -69,3 +72,11 @@ Some further configuration can be done to streamline your workflow such as savin
 * https://www.git-tower.com/blog/git-cheat-sheet/
 * https://git-scm.com/docs/gittutorial
 * https://ottostruve.github.io/gsps/slides/factor_git.pdf
+
+# LaTeX
+
+The easiest way to use the LaTeX document preparation software package is via https://www.overleaf.com. The AASTeX Template which you will be required to format your project reports in can be found here: https://www.overleaf.com/latex/templates/aastex-template-for-submissions-to-the-astrophysical-journal/bpkjwktvsqwp#.W3MmOC3MwkU
+
+If you would like to run LaTeX on your personal computer you will need to install LaTeX (warning: it is VERY large) and the AASTeX style sheets. Instructions and installers for Linux/MacOS/Windows can be found here: https://www.latex-project.org/get/
+Then follow the instructions to install AASTeX here: [https://journals.aas.org/authors/aastex.html#_download](https://journals.aas.org/authors/aastex.html#_download)
+That page also has links to guides on specific AASTeX commands and conventions.
