@@ -1,5 +1,5 @@
 # GettingStarted
-Instructions for getting started with [Python](#python), [Git/GitHub](#git-github), and [LaTeX](#latex).
+Instructions for getting started with [Python](#python), [Git/GitHub](#git-and-github), and [LaTeX](#latex).
 
 # Python
 
@@ -47,7 +47,7 @@ specutils
 emcee
 * http://dfm.io/emcee/current/
 
-# git/GitHub
+# git and GitHub
 
 ## Installing Git
 
